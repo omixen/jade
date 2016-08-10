@@ -1,6 +1,12 @@
 .DS_Store
-lib-cov
+.idea
 testing
 node_modules
 lib-cov
-coverage.html
+coverage
+cov-pt*
+npm-debug.log
+/test/output*
+/test/temp
+/docs/out
+.release.json
